@@ -14,14 +14,14 @@ layers:
   - A
   - S
   - D
-  - F
+  - {t: F, h: '1'}
   - G
   - F13
   - H
   - J
   - K
   - L
-  - ;
+  - {t: ;, h: '2'}
   - {t: Z, h: LEFT SHIFT}
   - X
   - C
@@ -29,7 +29,7 @@ layers:
   - B
   - F14
   - F15
-  - A
+  - N
   - M
   - ','
   - .
@@ -57,11 +57,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '['
-  - ']'
+  - {t: ']', type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - (
+  - '@'
+  - '-'
   - )
   - {t: ▽, type: trans}
   - \
@@ -80,7 +80,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -107,7 +107,7 @@ layers:
   - '&mkp MB1'
   - '&mkp MB2'
   - '='
-  - +
+  - {t: +, type: held}
   - F1
   - F2
   - F3
@@ -124,7 +124,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
