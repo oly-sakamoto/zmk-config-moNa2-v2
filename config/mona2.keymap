@@ -33,6 +33,11 @@
             bindings = <&kp TAB>;
             key-positions = <11 12>;
         };
+
+        layer3 {
+            bindings = <&lt 3 LC(F2)>;
+            key-positions = <31 30>;
+        };
     };
 
     macros {
