@@ -44,7 +44,7 @@ layers:
   - {t: ENTER, h: '2'}
   - LEFT ALT
   '1':
-  - '1'
+  - ESCAPE
   - '2'
   - '3'
   - '4'
@@ -87,7 +87,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '2':
-  - '!'
+  - /
   - '7'
   - '8'
   - '9'
@@ -97,7 +97,7 @@ layers:
   - UP ARROW
   - RIGHT ARROW
   - _
-  - '`'
+  - '-'
   - '4'
   - '5'
   - '6'
@@ -112,7 +112,7 @@ layers:
   - '1'
   - '2'
   - '3'
-  - F5
+  - _
   - F11
   - F12
   - Gui+LEFT ARROW
@@ -121,7 +121,7 @@ layers:
   - Sft+Gui+RIGHT ARROW
   - Gui+RIGHT ARROW
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '0'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
