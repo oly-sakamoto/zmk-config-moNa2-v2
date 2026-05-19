@@ -338,7 +338,7 @@ path.combo {
 <rect rx="6" ry="6" x="602" y="127" width="28" height="26" class="combo"/>
 <text x="616" y="140" class="combo tap">Ctl+F2</text>
 <a href="#x_x">
-<text x="616" y="151" class="combo hold layer-activator">6</text>
+<text x="616" y="151" class="combo hold layer-activator">3</text>
 </a></g>
 </g>
 </g>
@@ -536,7 +536,7 @@ path.combo {
 <rect rx="6" ry="6" x="602" y="127" width="28" height="26" class="combo"/>
 <text x="616" y="140" class="combo tap">Ctl+F2</text>
 <a href="#x_x">
-<text x="616" y="151" class="combo hold layer-activator">6</text>
+<text x="616" y="151" class="combo hold layer-activator">3</text>
 </a></g>
 </g>
 </g>
@@ -761,7 +761,7 @@ path.combo {
 <rect rx="6" ry="6" x="602" y="127" width="28" height="26" class="combo"/>
 <text x="616" y="140" class="combo tap">Ctl+F2</text>
 <a href="#x_x">
-<text x="616" y="151" class="combo hold layer-activator">6</text>
+<text x="616" y="151" class="combo hold layer-activator">3</text>
 </a></g>
 </g>
 </g>
@@ -955,7 +955,7 @@ path.combo {
 <rect rx="6" ry="6" x="602" y="127" width="28" height="26" class="combo"/>
 <text x="616" y="140" class="combo tap">Ctl+F2</text>
 <a href="#x_x">
-<text x="616" y="151" class="combo hold layer-activator">6</text>
+<text x="616" y="151" class="combo hold layer-activator">3</text>
 </a></g>
 </g>
 </g>
@@ -1160,7 +1160,7 @@ path.combo {
 <rect rx="6" ry="6" x="602" y="127" width="28" height="26" class="combo"/>
 <text x="616" y="140" class="combo tap">Ctl+F2</text>
 <a href="#x_x">
-<text x="616" y="151" class="combo hold layer-activator">6</text>
+<text x="616" y="151" class="combo hold layer-activator">3</text>
 </a></g>
 </g>
 </g>
@@ -1363,7 +1363,7 @@ path.combo {
 <rect rx="6" ry="6" x="602" y="127" width="28" height="26" class="combo"/>
 <text x="616" y="140" class="combo tap">Ctl+F2</text>
 <a href="#x_x">
-<text x="616" y="151" class="combo hold layer-activator">6</text>
+<text x="616" y="151" class="combo hold layer-activator">3</text>
 </a></g>
 </g>
 </g>
@@ -1553,7 +1553,7 @@ path.combo {
 <rect rx="6" ry="6" x="602" y="127" width="28" height="26" class="combo"/>
 <text x="616" y="140" class="combo tap">Ctl+F2</text>
 <a href="#x_x">
-<text x="616" y="151" class="combo hold layer-activator">6</text>
+<text x="616" y="151" class="combo hold layer-activator">3</text>
 </a></g>
 </g>
 </g>
