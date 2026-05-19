@@ -135,9 +135,9 @@ layers:
   - F8
   - F9
   - F12
-  - {t: ▽, type: trans}
-  - HOME
-  - UP ARROW
+  - Sft+7
+  - Sft+8
+  - Sft+9
   - END
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
