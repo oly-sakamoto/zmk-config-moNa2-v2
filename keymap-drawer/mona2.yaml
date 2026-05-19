@@ -117,7 +117,7 @@ layers:
   - F12
   - Gui+LEFT ARROW
   - Sft+Gui+LEFT ARROW
-  - Sft+Gui+UP ARROW
+  - Gui+UP ARROW
   - Sft+Gui+RIGHT ARROW
   - Gui+RIGHT ARROW
   - {t: ▽, type: trans}
