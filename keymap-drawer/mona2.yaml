@@ -146,9 +146,9 @@ layers:
   - F6
   - F11
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - LEFT ARROW
-  - DOWN ARROW
+  - Sft+4
+  - Sft+5
+  - Sft+6
   - RIGHT ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -158,9 +158,9 @@ layers:
   - F10
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - DELETE
-  - PAGE UP
+  - Sft+1
+  - Sft+2
+  - Sft+3
   - PAGE DOWN
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
