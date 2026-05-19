@@ -20,7 +20,7 @@ layers:
   - H
   - J
   - K
-  - {t: L, h: '3'}
+  - {t: L, h: '6'}
   - {t: ;, h: '2'}
   - {t: Z, h: LEFT SHIFT}
   - X
@@ -149,7 +149,7 @@ layers:
   - Sft+4
   - Sft+5
   - Sft+6
-  - {t: RIGHT ARROW, type: held}
+  - RIGHT ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F1
@@ -168,7 +168,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -278,7 +278,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -307,4 +307,4 @@ combos:
 - p: [11, 12]
   k: TAB
 - p: [31, 30]
-  k: {t: Ctl+F2, h: '3'}
+  k: {t: Ctl+F2, h: '6'}
