@@ -34,8 +34,8 @@
             key-positions = <11 12>;
         };
 
-        layer6 {
-            bindings = <&lt 6 LC(F2)>;
+        layer3 {
+            bindings = <&lt 3 LC(F2)>;
             key-positions = <31 30>;
         };
     };
