@@ -82,7 +82,7 @@
         default_layer {
             bindings = <
 &lt 4 Q           &kp W         &kp E    &kp R        &kp T                                                              &kp Y        &kp U  &kp I      &kp O    &kp P
-&kp A             &kp S         &kp D    &lt 1 F      &kp G                                  &kp F13                     &kp H        &kp J  &kp K      &lt 6 L  &lt 2 SEMICOLON
+&kp A             &kp S         &kp D    &lt 1 F      &kp G                                  &kp F13                     &kp H        &kp J  &kp K      &lt 3 L  &lt 2 SEMICOLON
 &mt LEFT_SHIFT Z  &kp X         &kp C    &kp V        &kp B        &kp F14                   &kp F15                     &kp N        &kp M  &kp COMMA  &kp DOT  &kp SLASH
 &kp LCTRL         &kp LEFT_WIN  &kp F16  &lt 1 LANG2  &lt 2 SPACE  &lt_to_layer_0 3 LANG1    &lt_to_layer_0 3 BACKSPACE  &lt 2 ENTER                             &kp LEFT_ALT
             >;
@@ -103,10 +103,10 @@
 
         layer_2 {
             bindings = <
-&kp SLASH  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp ASTERISK                        &kp LG(LS(S))       &kp LEFT_ARROW          &kp UP_ARROW      &kp RIGHT_ARROW          &kp UNDERSCORE
-&kp MINUS  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp PLUS                   &trans   &mkp MB4            &mkp MB1                &kp DOWN_ARROW    &mkp MB2                 &mkp MB5
-&kp EQUAL  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp UNDERSCORE  &kp F11    &kp F12  &kp RG(LEFT_ARROW)  &kp LS(LG(LEFT_ARROW))  &kp LG(UP_ARROW)  &kp LS(LG(RIGHT_ARROW))  &kp LG(RIGHT_ARROW)
-&trans     &kp NUMBER_0  &trans        &trans        &trans          &trans     &trans   &trans                                                                                 &trans
+&kp SLASH  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9            &kp ASTERISK                                        &kp LG(LS(S))       &kp LEFT_ARROW          &kp UP_ARROW      &kp RIGHT_ARROW          &kp UNDERSCORE
+&kp MINUS  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6            &kp PLUS                                   &trans   &mkp MB4            &mkp MB1                &kp DOWN_ARROW    &mkp MB2                 &mkp MB5
+&kp EQUAL  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3            &kp UNDERSCORE  &kp F11                    &kp F12  &kp RG(LEFT_ARROW)  &kp LS(LG(LEFT_ARROW))  &kp LG(UP_ARROW)  &kp LS(LG(RIGHT_ARROW))  &kp LG(RIGHT_ARROW)
+&trans     &kp NUMBER_0  &trans        &kp LG(LC(LEFT_ARROW))  &kp LG(TAB)     &kp LG(LC(RIGHT_ARROW))    &trans   &trans                                                                                 &trans
             >;
 
             sensor-bindings = <&scroll_up_down>;
