@@ -20,7 +20,7 @@ layers:
   - H
   - J
   - K
-  - {t: L, h: '6'}
+  - {t: L, h: '3'}
   - {t: ;, h: '2'}
   - {t: Z, h: LEFT SHIFT}
   - X
@@ -123,9 +123,9 @@ layers:
   - {t: ▽, type: trans}
   - '0'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Gui+Ctl+LEFT ARROW
+  - Gui+TAB
+  - Gui+Ctl+RIGHT ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -149,7 +149,7 @@ layers:
   - Sft+4
   - Sft+5
   - Sft+6
-  - RIGHT ARROW
+  - {t: RIGHT ARROW, type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F1
@@ -168,7 +168,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -278,7 +278,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
