@@ -53,7 +53,7 @@ layers:
   - '7'
   - '8'
   - '9'
-  - '0'
+  - DEL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '['
@@ -92,7 +92,7 @@ layers:
   - '8'
   - '9'
   - '*'
-  - ^
+  - Gui+Sft+S
   - LEFT ARROW
   - UP ARROW
   - RIGHT ARROW
