@@ -104,7 +104,7 @@
         layer_2 {
             bindings = <
 &kp SLASH  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp ASTERISK                        &kp LG(LS(S))       &kp LEFT_ARROW          &kp UP_ARROW          &kp RIGHT_ARROW          &kp UNDERSCORE
-&kp MINUS  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp PLUS                   &trans   &kt K_BACK          &mkp MB1                &kp DOWN_ARROW        &mkp MB2                 &kp K_FORWARD
+&kp MINUS  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp PLUS                   &trans   &mkp MB4            &mkp MB1                &kp DOWN_ARROW        &mkp MB2                 &mkp MB5
 &kp EQUAL  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp UNDERSCORE  &kp F11    &kp F12  &kp RG(LEFT_ARROW)  &kp LS(LG(LEFT_ARROW))  &kp LS(LG(UP_ARROW))  &kp LS(LG(RIGHT_ARROW))  &kp LG(RIGHT_ARROW)
 &trans     &kp NUMBER_0  &trans        &trans        &trans          &trans     &trans   &trans                                                                                     &trans
             >;
