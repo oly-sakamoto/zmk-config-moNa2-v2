@@ -103,12 +103,12 @@ layers:
   - '6'
   - +
   - {t: ▽, type: trans}
-  - '&mkp MB3'
+  - {t: BACK, h: toggle}
   - '&mkp MB1'
   - DOWN ARROW
   - '&mkp MB2'
-  - {t: +, type: held}
-  - F1
+  - {t: FORWARD, type: held}
+  - '='
   - '1'
   - '2'
   - '3'
