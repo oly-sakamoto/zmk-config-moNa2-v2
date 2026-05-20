@@ -81,10 +81,10 @@
 
         default_layer {
             bindings = <
-&lt 4 Q           &kp W         &kp E    &kp R        &kp T                                                              &kp Y        &kp U  &kp I      &kp O    &kp P
-&kp A             &kp S         &kp D    &lt 1 F      &kp G                                  &kp F13                     &kp H        &kp J  &kp K      &lt 3 L  &lt 2 SEMICOLON
-&mt LEFT_SHIFT Z  &kp X         &kp C    &kp V        &kp B        &kp F14                   &kp F15                     &kp N        &kp M  &kp COMMA  &kp DOT  &kp SLASH
-&kp LCTRL         &kp LEFT_WIN  &kp F16  &lt 1 LANG2  &lt 2 SPACE  &lt_to_layer_0 3 LANG1    &lt_to_layer_0 3 BACKSPACE  &lt 2 ENTER                             &kp LEFT_ALT
+&lt 4 Q           &kp W         &kp E        &kp R        &kp T                                                              &kp Y        &kp U  &kp I      &kp O    &kp P
+&kp A             &kp S         &kp D        &lt 1 F      &kp G                                  &kp F2                      &kp H        &kp J  &kp K      &lt 3 L  &lt 2 SEMICOLON
+&mt LEFT_SHIFT Z  &kp X         &kp C        &kp V        &kp B        &kp F14                   &kp F15                     &kp N        &kp M  &kp COMMA  &kp DOT  &mt RSHIFT SLASH
+&kp LCTRL         &kp LEFT_WIN  &mt F16 F16  &lt 1 LANG2  &lt 2 SPACE  &lt_to_layer_0 3 LANG1    &lt_to_layer_0 3 BACKSPACE  &lt 2 ENTER                             &kp LEFT_ALT
             >;
 
             sensor-bindings = <&scroll_up_down>;
