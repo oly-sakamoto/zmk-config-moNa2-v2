@@ -16,7 +16,7 @@ layers:
   - D
   - {t: F, h: '1'}
   - G
-  - F13
+  - F2
   - H
   - J
   - K
@@ -33,10 +33,10 @@ layers:
   - M
   - ','
   - .
-  - /
+  - {t: /, h: RSHIFT}
   - LCTRL
   - LEFT WIN
-  - F16
+  - {t: F16, h: F16}
   - {t: LANG2, h: '1'}
   - {t: SPACE, h: '2'}
   - {t: '&to_layer_0 LANG1', h: '3'}
