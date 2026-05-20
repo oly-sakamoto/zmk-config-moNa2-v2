@@ -96,7 +96,7 @@ layers:
   - LEFT ARROW
   - UP ARROW
   - RIGHT ARROW
-  - _
+  - {t: ▽, type: trans}
   - '-'
   - '4'
   - '5'
