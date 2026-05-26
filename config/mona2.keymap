@@ -93,7 +93,7 @@
         layer_1 {
             bindings = <
 &kp ESCAPE  &kp NUMBER_2  &kp NUMBER_3      &kp NUMBER_4          &kp NUMBER_5                    &kp NUMBER_6     &kp NUMBER_7  &kp NUMBER_8     &kp NUMBER_9  &kp DEL
-&trans      &trans        &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &trans                  &trans  &kp NON_US_BSLH  &kp MINUS     &kp EXCLAMATION  &kp QUESTION  &kp BACKSLASH
+&trans      &trans        &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &trans                  &kp F2  &kp NON_US_BSLH  &kp MINUS     &kp EXCLAMATION  &kp QUESTION  &kp BACKSLASH
 &trans      &trans        &trans            &kp LS(LC(NUMBER_1))  &trans        &trans    &trans  &trans           &trans        &trans           &trans        &kp PIPE
 &trans      &trans        &trans            &trans                &trans        &trans    &trans  &trans                                                        &trans
             >;
