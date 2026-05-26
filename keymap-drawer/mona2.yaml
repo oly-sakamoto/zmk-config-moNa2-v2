@@ -42,7 +42,7 @@ layers:
   - {t: '&to_layer_0 LANG1', h: '3'}
   - {t: '&to_layer_0 BACKSPACE', h: '3'}
   - {t: ENTER, h: '2'}
-  - LEFT ALT
+  - RCTRL
   '1':
   - ESCAPE
   - '2'
@@ -60,7 +60,7 @@ layers:
   - {t: ']', type: held}
   - {t: ▽, type: trans}
   - F2
-  - '|'
+  - '#'
   - '-'
   - '!'
   - '?'
