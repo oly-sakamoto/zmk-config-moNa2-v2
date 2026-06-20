@@ -94,10 +94,10 @@
 
         layer_1 {
             bindings = <
-&kp ESCAPE  &trans  &trans  &trans                &trans                    &trans  &trans     &trans           &trans        &kp DEL
-&trans      &trans  &trans  &trans                &trans            &trans  &kp AT  &kp MINUS  &kp EXCLAMATION  &kp QUESTION  &kp BACKSLASH
-&trans      &trans  &trans  &kp LS(LC(NUMBER_1))  &trans  &trans    &trans  &trans  &trans     &trans           &trans        &kp PIPE
-&trans      &trans  &trans  &trans                &trans  &trans    &trans  &trans                                            &trans
+&kp ESCAPE  &trans  &trans  &trans                &trans                    &trans            &trans     &trans           &trans        &kp DEL
+&trans      &trans  &trans  &trans                &trans            &trans  &kp LEFT_BRACKET  &kp MINUS  &kp EXCLAMATION  &kp QUESTION  &kp BACKSLASH
+&trans      &trans  &trans  &kp LS(LC(NUMBER_1))  &trans  &trans    &trans  &trans            &trans     &trans           &trans        &kp PIPE
+&trans      &trans  &trans  &trans                &trans  &trans    &trans  &trans                                                      &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
@@ -107,7 +107,7 @@
             bindings = <
 &kp SLASH  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9            &kp KP_ASTERISK                                             &kp LG(LS(S))       &kp LEFT_ARROW          &kp UP_ARROW      &kp RIGHT_ARROW          &trans
 &kp MINUS  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6            &kp KP_PLUS                                         &trans  &mkp MB4            &mkp MB1                &kp DOWN_ARROW    &mkp MB2                 &mkp MB5
-&kp EQUAL  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3            &kp LS(INTERNATIONAL_1)  &trans                     &trans  &kp RG(LEFT_ARROW)  &kp LS(LG(LEFT_ARROW))  &kp LG(UP_ARROW)  &kp LS(LG(RIGHT_ARROW))  &kp LG(RIGHT_ARROW)
+&kp PLUS   &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3            &kp LS(INTERNATIONAL_1)  &trans                     &trans  &kp RG(LEFT_ARROW)  &kp LS(LG(LEFT_ARROW))  &kp LG(UP_ARROW)  &kp LS(LG(RIGHT_ARROW))  &kp LG(RIGHT_ARROW)
 &trans     &kp NUMBER_0  &trans        &kp LG(LC(LEFT_ARROW))  &kp LG(TAB)              &kp LG(LC(RIGHT_ARROW))    &trans  &trans                                                                                 &trans
             >;
 
