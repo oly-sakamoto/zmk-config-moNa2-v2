@@ -108,7 +108,7 @@ layers:
   - DOWN ARROW
   - '&mkp MB2'
   - {t: '&mkp MB5', type: held}
-  - +
+  - ']'
   - '1'
   - '2'
   - '3'
