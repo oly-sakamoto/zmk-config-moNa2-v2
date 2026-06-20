@@ -21,7 +21,7 @@ layers:
   - J
   - K
   - {t: L, h: '3'}
-  - {t: ;, h: '2'}
+  - {t: ':', h: '2'}
   - {t: Z, h: LEFT SHIFT}
   - X
   - C
@@ -33,7 +33,7 @@ layers:
   - M
   - ','
   - .
-  - {t: /, h: RSHIFT}
+  - {t: ;, h: RSHIFT}
   - {t: TAB, h: LCTRL}
   - LEFT WIN
   - LALT
@@ -56,10 +56,10 @@ layers:
   - DEL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '['
-  - {t: ']', type: held}
   - {t: ▽, type: trans}
-  - F2
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - '#'
   - '-'
   - '!'
@@ -113,8 +113,8 @@ layers:
   - '2'
   - '3'
   - Sft+INTERNATIONAL 1
-  - F11
-  - F12
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - Gui+LEFT ARROW
   - Sft+Gui+LEFT ARROW
   - Gui+UP ARROW
@@ -138,7 +138,7 @@ layers:
   - Sft+7
   - Sft+8
   - Sft+9
-  - END
+  - HOME
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F4
@@ -149,7 +149,7 @@ layers:
   - Sft+4
   - Sft+5
   - Sft+6
-  - {t: RIGHT ARROW, type: held}
+  - {t: PAGE UP, type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F1
