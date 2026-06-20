@@ -34,7 +34,7 @@ layers:
   - ','
   - .
   - {t: /, h: RSHIFT}
-  - LCTRL
+  - {t: TAB, h: LCTRL}
   - LEFT WIN
   - LALT
   - {t: LANG2, h: '1'}
@@ -45,14 +45,14 @@ layers:
   - RCTRL
   '1':
   - ESCAPE
-  - '2'
-  - '3'
-  - '4'
-  - '5'
-  - '6'
-  - '7'
-  - '8'
-  - '9'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - DEL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -91,7 +91,7 @@ layers:
   - '7'
   - '8'
   - '9'
-  - '*'
+  - KP ASTERISK
   - Gui+Sft+S
   - LEFT ARROW
   - UP ARROW
@@ -101,7 +101,7 @@ layers:
   - '4'
   - '5'
   - '6'
-  - +
+  - KP PLUS
   - {t: ▽, type: trans}
   - '&mkp MB4'
   - '&mkp MB1'
