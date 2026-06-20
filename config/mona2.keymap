@@ -84,7 +84,7 @@
         default_layer {
             bindings = <
 &lt 4 Q           &kp W         &kp E     &kp R        &kp T                                                              &kp Y        &kp U  &kp I      &kp O    &kp P
-&kp A             &kp S         &kp D     &lt 1 F      &kp G                                  &kp F2                      &kp H        &kp J  &kp K      &lt 3 L  &lt 2 SEMI
+&kp A             &kp S         &kp D     &lt 1 F      &kp G                                  &kp F2                      &kp H        &kp J  &kp K      &lt 3 L  &lt 2 SINGLE_QUOTE
 &mt LEFT_SHIFT Z  &kp X         &kp C     &kp V        &kp B        &kp F14                   &kp F15                     &kp N        &kp M  &kp COMMA  &kp DOT  &mt RSHIFT SEMICOLON
 &mt LCTRL TAB     &kp LEFT_WIN  &kp LALT  &lt 1 LANG2  &lt 2 SPACE  &lt_to_layer_0 3 LANG1    &lt_to_layer_0 3 BACKSPACE  &lt 2 ENTER                             &kp RCTRL
             >;
@@ -94,10 +94,10 @@
 
         layer_1 {
             bindings = <
-&kp ESCAPE  &trans  &trans  &trans                &trans                    &trans    &trans     &trans           &trans        &kp DEL
-&trans      &trans  &trans  &trans                &trans            &trans  &kp RBKT  &kp MINUS  &kp EXCLAMATION  &kp QUESTION  &kp BACKSLASH
-&trans      &trans  &trans  &kp LS(LC(NUMBER_1))  &trans  &trans    &trans  &trans    &trans     &trans           &trans        &kp PIPE
-&trans      &trans  &trans  &trans                &trans  &trans    &trans  &trans                                              &trans
+&kp ESCAPE  &trans  &trans  &trans                &trans                    &trans  &trans     &trans           &trans        &kp DEL
+&trans      &trans  &trans  &trans                &trans            &trans  &kp AT  &kp MINUS  &kp EXCLAMATION  &kp QUESTION  &kp BACKSLASH
+&trans      &trans  &trans  &kp LS(LC(NUMBER_1))  &trans  &trans    &trans  &trans  &trans     &trans           &trans        &kp PIPE
+&trans      &trans  &trans  &trans                &trans  &trans    &trans  &trans                                            &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
