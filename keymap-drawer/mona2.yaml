@@ -21,7 +21,7 @@ layers:
   - J
   - K
   - {t: L, h: '3'}
-  - {t: ':', h: '2'}
+  - {t: ;, h: '2'}
   - {t: Z, h: LEFT SHIFT}
   - X
   - C
@@ -60,7 +60,7 @@ layers:
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '#'
+  - ']'
   - '-'
   - '!'
   - '?'
